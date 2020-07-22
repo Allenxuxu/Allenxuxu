@@ -5,4 +5,4 @@
 
 > 一名热爱开源的 Golang 选手
 
-- 个人博客：mogutou.xyz
+- 个人博客：[mogutou.xyz](https://mogutou.xyz)
