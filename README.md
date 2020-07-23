@@ -5,6 +5,6 @@
 
 > 一名热爱开源的 Golang 选手
 
-- 个人博客：[mogutou.xyz](https://mogutou.xyz)
-- 比标准库更快的tcp网络库：[gev](https://github.com/Allenxuxu/gev)
-- 分布式配置中心：[XConf](https://github.com/micro-in-cn/XConf)
+- 🏠个人博客：[mogutou.xyz](https://mogutou.xyz)
+- 🚀比标准库更快的tcp网络库：[gev](https://github.com/Allenxuxu/gev)
+- 📃分布式配置中心：[XConf](https://github.com/micro-in-cn/XConf)
