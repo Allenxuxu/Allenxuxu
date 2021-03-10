@@ -14,3 +14,9 @@
 - Go 实现的数据结构与算法：[dsa](https://github.com/Allenxuxu/dsa)
 - Go leetcode 题解：[leetcode-in-go](https://github.com/Allenxuxu/leetcode-in-go)
 
+##### 字节跳动 内推
+
+社招： https://job.toutiao.com/s/eRUBN97
+
+校招内推码: DZ2MHGB  
+投递链接: https://jobs.toutiao.com/s/eRULyxU
