@@ -10,9 +10,7 @@
 - Go 工具集: [toolkit](https://github.com/Allenxuxu/toolkit)
 - Uber Go 风格指南: [uber-go-guide](https://github.com/Allenxuxu/uber-go-guide)
 
-
-- Go 实现的数据结构与算法：[dsa](https://github.com/Allenxuxu/dsa)
-- Go leetcode 题解：[leetcode-in-go](https://github.com/Allenxuxu/leetcode-in-go)
+<img src="https://github-profile-trophy.vercel.app/?username=allenxuxu&&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
 #### 字节跳动 内推
 
