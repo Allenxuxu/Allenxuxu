@@ -6,7 +6,7 @@
 
 - 🚀 [gev](https://github.com/Allenxuxu/gev) - 比标准库更快的tcp网络库 / [★1468](https://github.com/Allenxuxu/gev/stargazers) / `Go`
 - ☁️ [stark](https://github.com/Allenxuxu/stark) - Go 微服务框架 / [★24](https://github.com/Allenxuxu/stark/stargazers) / `Go` `Grpc` `HTTP`
-- 📃 [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心 / [★227](https://github.com/micro-in-cn/XConf/stargazers) / `Go` `React`
+- 📃 [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心 / [★228](https://github.com/micro-in-cn/XConf/stargazers) / `Go` `React`
 - 🔧 [toolkit](https://github.com/Allenxuxu/toolkit) - Go 工具集 / [★4](https://github.com/Allenxuxu/toolkit/stargazers) / `Go`
 - 🧭 [Uber Go Guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南 / [★210](https://github.com/Allenxuxu/uber-go-guide/stargazers) 
 
