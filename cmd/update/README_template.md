@@ -14,7 +14,7 @@
 
 <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/42/0f/fd420f71-8b50-e195-e942-211377b56f0f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="25" align='left' />
 
-[人生笔记](https://apps.apple.com/app/id1625209452) - 写日记,贴视频,贴照片,永久保存
+[人生笔记](https://lifelog.iofree.xyz/) - 写日记,贴视频,贴照片,永久保存
 
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/48/be/45/48be45bd-9162-f97e-2295-a49ca3938da5/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="25" align='left' />
 
