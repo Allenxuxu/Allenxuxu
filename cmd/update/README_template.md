@@ -1,4 +1,4 @@
-### Hello, I'm 徐旭 👋 ｜ 🏠个人博客：[blog.iofree.xyz](https://blog.iofree.xyz/)
+### Hello, I'm Allen 👋 ｜ 🏠个人博客：[blog.iofree.xyz](https://blog.iofree.xyz/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=allenxuxu)
 
 <img src="https://github-readme-stats.vercel.app/api?username=allenxuxu&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
@@ -16,9 +16,6 @@
 
 [人生笔记](https://lifelog.iofree.xyz/) - 写日记,贴视频,贴照片,永久保存
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/48/be/45/48be45bd-9162-f97e-2295-a49ca3938da5/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="25" align='left' />
-
-[友窗](https://apps.apple.com/app/id1614830371) - 分享你的心动时刻到好友桌面窗口
 
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/87/33/ca8733ad-f852-5769-04f4-e334d10376d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="25" align='left' />
 
