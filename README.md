@@ -8,7 +8,7 @@
 - ☁️ [stark](https://github.com/Allenxuxu/stark) - Go 微服务框架 / [★29](https://github.com/Allenxuxu/stark/stargazers) / `Go` `Grpc` `HTTP`
 - 📃 [XConf](https://github.com/micro-in-cn/XConf) - 分布式配置中心 / [★240](https://github.com/micro-in-cn/XConf/stargazers) / `Go` `React`
 - 🔧 [toolkit](https://github.com/Allenxuxu/toolkit) - Go 工具集 / [★4](https://github.com/Allenxuxu/toolkit/stargazers) / `Go`
-- 🧭 [Uber Go Guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南  
+- 🧭 [Uber Go Guide](https://github.com/Allenxuxu/uber-go-guide) - Uber Go 风格指南 / [★216](https://github.com/Allenxuxu/uber-go-guide/stargazers) 
 
 
 #### 我的 iOS 作品
